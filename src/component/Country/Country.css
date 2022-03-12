@@ -1,0 +1,9 @@
+.country{
+    background-color: lightskyblue;
+    border: 3px solid red;
+    border-radius: 15px;
+    margin: 20px;
+}
+.country img{
+    width: 250px;
+}
